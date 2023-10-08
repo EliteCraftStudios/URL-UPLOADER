@@ -3,24 +3,24 @@
 
 [![logo](https://graph.org/file/37858b895e6d5ec39b5ad.jpg)](https://telegram.dog/Url_UploaderV3Bot)
 
-[![GitHub forks](https://img.shields.io/github/forks/EliteCraftStudios/UPLOADER-BOT?&style=flat-square&logo=github)](https://github.com/elitecraftstudios/UPLOADER-BOT/fork)
-![Repo Size](https://img.shields.io/github/repo-size/elitecraftstudios/UPLOADER-BOT?&style=flat-square&logo=github)
-[![GitHub stars](https://img.shields.io/github/stars/elitecraftstudios/UPLOADER-BOT?&style=flat-square&logo=github)](https://github.com/elitecraftstudios/UPLOADER-BOT/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/EliteCraftStudios/URL-UPLOADER?&style=flat-square&logo=github)](https://github.com/elitecraftstudios/URL-UPLOADER/fork)
+![Repo Size](https://img.shields.io/github/repo-size/elitecraftstudios/URL-UPLOADER?&style=flat-square&logo=github)
+[![GitHub stars](https://img.shields.io/github/stars/elitecraftstudios/URL-UPLOADER?&style=flat-square&logo=github)](https://github.com/elitecraftstudios/URL-UPLOADER/stargazers)
 
   
 # GIVE ME A STAR ⭐
 
 ### Fork And Deploy
 
-  ㅤ ㅤ   ㅤ <a href="https://github.com/EliteCraftStudios/UPLOADER-BOT/fork"><img alt="Fork and deploy" src="https://img.shields.io/badge/-Fork%20And%20Deploy-black?style=for-the-badge&logo=github&logoColor=white"/></a> 
+<a href="https://github.com/EliteCraftStudios/URL-UPLOADER/fork"><img alt="Fork and deploy" src="https://img.shields.io/badge/-Fork%20And%20Deploy-black?style=for-the-badge&logo=github&logoColor=white"/></a> 
 
 ### Deploy To Heroku
 
-  ㅤ ㅤ   ㅤ <a href="https://dashboard.heroku.com/new?template=https://github.com/elitecraftstudios/url-uploader-bot"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/></a> 
+<a href="https://dashboard.heroku.com/new?template=https://github.com/elitecraftstudios/URL-UPLOADER"><img alt="heroku" src="https://img.shields.io/badge/-Deploy%20To%20Heroku-purple?style=for-the-badge&logo=heroku&logoColor=white"/></a> 
 
 ### Deploy To Koyeb
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/elitecraftstudios/UPLOADER-BOT&branch=Master&name=UPLOADER-BOT)
+[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=git&repository=github.com/elitecraftstudios/URL-UPLOADER&branch=Master&name=URL-UPLOADER)
 
 
 ### Comment
