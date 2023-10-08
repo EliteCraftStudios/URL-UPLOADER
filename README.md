@@ -1,7 +1,7 @@
 ## UPLOADER BOT 🚀
 
 
-[![logo](https://te.legra.ph/file/82c925ccc38606d837831.jpg)](https://telegram.dog/Url_UploaderV3Bot)
+[![logo](https://graph.org/file/37858b895e6d5ec39b5ad.jpg)](https://telegram.dog/Url_UploaderV3Bot)
 
 [![GitHub forks](https://img.shields.io/github/forks/EliteCraftStudios/UPLOADER-BOT?&style=flat-square&logo=github)](https://github.com/elitecraftstudios/UPLOADER-BOT/fork)
 ![Repo Size](https://img.shields.io/github/repo-size/elitecraftstudios/UPLOADER-BOT?&style=flat-square&logo=github)
