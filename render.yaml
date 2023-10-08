@@ -1,5 +1,5 @@
 services:
-  - type: web
+    type: web
     plan: free
     name: URL-UPLOADER
     env: python
@@ -10,20 +10,20 @@ services:
     autoDeploy: true
     envVars:
       - key: BOT_TOKEN
-        sync: true
+        sync: false
       - key: API_ID
-        sync: true
+        sync: false
       - key: API_HASH
-        sync: true
+        sync: false
       - key: UPDATES_CHANNEL
         sync: false
       - key: LOG_CHANNEL
-        sync: true
+        sync: false
       - key: DATABASE_URL
-        sync: true
+        sync: false
       - key: BOT_USERNAME
-        sync: true
+        sync: false
       - key: OWNER_ID
-        sync: true
+        sync: false 
       - key: WEBHOOK
         sync: false
