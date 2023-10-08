@@ -1,0 +1,70 @@
+{
+  "name": "Uploader Bot 🚀",
+  "description": "Telegram's best Open Source Url Uploader Bot. Create your Fork now.",
+  "logo": "https://graph.org/file/21a8f924e3d37a1b30d29.png",
+  "keywords": [
+    "telegram",
+    "best",
+    "yt-dlp",
+    "downloader",
+    "open",
+    "source",
+    "ffmpeg",
+    "remote",
+    "uploader"
+  ],
+  "website": "https://github.com/EliteCraftStudios",
+  "repository": "https://github.com/EliteCraftStudios/UPLOADER-BOT",
+  "env": {
+    "WEBHOOK": {
+      "description": "Setting this to ANYTHING will enable webhooks when in env mode",
+      "value": "ANYTHING"
+    },
+    "BOT_TOKEN": {
+      "description": "Your bot token, as a string. @BotFather",
+      "value": ""
+    },
+    "API_ID": {
+      "description": "Get this value from https://my.telegram.org",
+      "value": ""
+    },
+    "API_HASH": {
+      "description": "Get this value from https://my.telegram.org",
+      "value": ""
+    },
+    "DATABASE_URL": {
+      "description": "Your Mongodb Url",
+      "value": ""
+    },
+    "LOG_CHANNEL": {
+      "description": "Your Any Own Private Channel ID Where Your Bot As Admin With Full Permission",
+      "value": ""
+    },
+    "UPDATES_CHANNEL": {
+      "description": "Your Update channel id users don't use Your Bot without Join Your Channel",
+      "value": ""
+    },
+    "OWNER_ID": {
+      "description": "Your Telegram ID Use @MissRose_Bot and Use Command /id",
+      "value": "12345678"
+    },
+    "BOT_USERNAME": {
+      "description": "Your Bot Username Without @",
+      "value": ""
+    }
+  },
+  "addons": [
+  ],
+  "buildpacks": [{
+    "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+  }, {
+    "url": "heroku/python"
+  }],
+  "formation": {
+    "worker": {
+      "quantity": 1,
+      "size": "eco"
+    }
+  }
+}
+
