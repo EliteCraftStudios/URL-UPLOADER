@@ -1,15 +1,13 @@
+aiohttp
 beautifulsoup4
 hachoir
 numpy
 Pillow
 pyrogram==1.4.16
-tgcrypto
 requests
-youtube-search-python
-youtube-search
-yt-dlp==2023.7.6
-aiofiles==22.1.0
-aiohttp==3.8.3
+tgcrypto
+yt-dlp
+olefile
 motor
 pymongo
 dnspython
@@ -17,6 +15,7 @@ psutil
 loggers
 filetype
 tldextract
+aiofiles
 pyromod
 lk21
 Flask==2.2.2
